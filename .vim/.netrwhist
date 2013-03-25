@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/brh/Documents/work/haskell/consensusd/Network'
+let g:netrw_dirhist_2='/Users/brh/Documents/work/haskell/consensusd/Network/Consensus'
+let g:netrw_dirhist_3='/Users/brh/Documents/work/haskell/consensusd'
+let g:netrw_dirhist_4='/Users/brh/Documents/work/haskell/consensusd/Network'
+let g:netrw_dirhist_5='/Users/brh/Documents/work/haskell/consensusd/Network/Consensus'
+let g:netrw_dirhist_6='/Users/brh/Documents/work/haskell/consensusd/Network'
+let g:netrw_dirhist_7='/Users/brh/Documents/work/haskell/distributedb'
+let g:netrw_dirhist_8='/private/tmp/nginx/src/core'
+let g:netrw_dirhist_9='/Users/brh/Dropbox/code/snapd'
